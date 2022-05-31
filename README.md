@@ -1,4 +1,4 @@
-![Logo UTFPR](.pictures/PG_RGB_72dpi_transparente.png "UTFPR-PG")
+![Logo UTFPR](.pictures/PG_RGB_72dpi_transparente.png)
 
 # **Bachelor's Thesis**
 
