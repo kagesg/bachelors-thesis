@@ -1,4 +1,4 @@
-![alt text](http://portal.utfpr.edu.br/++theme++destaques-cinza/img/logo-utfpr.png)
+![Logo UTFPR](.pictures/PG_RGB_72dpi_transparente.png "UTFPR-PG")
 
 # **Bachelor's Thesis**
 
