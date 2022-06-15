@@ -7,7 +7,7 @@
 
 My Bachelor's Thesis in Mechanical Engineering at Federal University of Technology - Paraná.
 
-### **Simulation in Python of the Economizer's Operation of a Lab-Scale Circulating FLuidized Bed Boiler**
+## **Simulation in Python of the Economizer's Operation of a Lab-Scale Circulating FLuidized Bed Boiler**
 
 ### **Abstract**
 
